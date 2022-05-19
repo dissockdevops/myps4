@@ -2,3 +2,5 @@
 lontio
 roma
 miss
+shanice
+yan
